@@ -59,13 +59,13 @@ const MainSlider = () => {
                 </Button>
               </h2>
               <h1 className="text-center text-danger text-uppercase">
-                Mahindra Eden
+              Salarpuria Aqua Vista
               </h1>
               <h3 className="text-danger">
                 {/* Pre-Launching Purva Sparkling Springs Phase-2 */}
               </h3>
               <div className="pb-2 text-center">
-                Kanakapura Road, Bangalore.
+              Bannerghatta Road,Bangalore
               </div>
               <div className="bg-dark p-3 text-white">
                 <ul className="list-unstyled text-center">
@@ -111,13 +111,13 @@ const MainSlider = () => {
                   </Button>
                 </h2>
                 <h1 className="text-center text-danger text-uppercase">
-                  Mahindra Eden
+                Salarpuria Aqua Vista
                 </h1>
                 <h3 className="text-danger">
                   {/* Pre-Launching Purva Sparkling Springs Phase-2 */}
                 </h3>
                 <div className="pb-2 text-center">
-                  Kanakapura Road, Bangalore.
+                Bannerghatta Road, Bangalore.
                 </div>
                 <div className="bg-dark p-3 text-white">
                   <ul className="list-unstyled text-center">
