@@ -22,8 +22,8 @@ function App() {
       <Overview />
       <MasterPlan />
       <Pricing />
-      <Gallery />
       <Amenities />
+      <Gallery />
       {/* <VirtualTour /> */}
       <SideForm />
       {/* <Location />  */}
